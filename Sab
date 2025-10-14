@@ -1,4 +1,4 @@
 pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Stealabrainrot/refs/heads/main/Khngscript"))() end)
 pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Class/refs/heads/main/input.obfuscated.lua.txt"))() end)
-task.wait(7)
+task.wait(15)
 pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Finder/refs/heads/main/Khng"))() end)
