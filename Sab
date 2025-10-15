@@ -2,8 +2,14 @@ pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Stealabrainrot/refs/heads/main/Khngscript"))()
 end)
 
-task.wait(15)
+task.wait(7)
 
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Finder/refs/heads/main/Khng"))()
+end)
+
+task.wait(2)
+
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Class/refs/heads/main/Khngscriptt"))()
 end)
