@@ -1,5 +1,5 @@
 pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Stealabrainrot/refs/heads/main/Khngscript"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Stealabrainrot/refs/heads/main/Khngscriptt"))()
 end)
 
 task.wait(2)
