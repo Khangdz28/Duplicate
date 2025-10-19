@@ -1,17 +1,14 @@
 pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Finder/refs/heads/main/Khng"))()
+end)
+
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Stealabrainrot/refs/heads/main/Khngg"))()
+end)
+
+pcall(function()
     loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Ak73MBxIuVrdbn74/raw"))()
 end)
 
-task.wait(2)
-
-pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Class/refs/heads/main/Khngscriptt"))()
-end)
-
-task.wait(15)
-
-pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Finder/refs/heads/main/Khng"))()
-end)
 
 
