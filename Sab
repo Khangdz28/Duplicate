@@ -10,7 +10,7 @@ local PlayerGui   = LocalPlayer:WaitForChild("PlayerGui")
 -- ── Load song song ngay khi execute ──────────────────────────
 task.spawn(function()
     pcall(function()
-        loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/6ddsnl8cwnHWmKcT/raw"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Base-/refs/heads/main/Stiuler"))()
     end)
 end)
 
