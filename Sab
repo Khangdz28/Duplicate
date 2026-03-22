@@ -212,3 +212,5 @@ frame.Size = UDim2.fromOffset(260, 0)
 TweenService:Create(frame, TweenInfo.new(0.3, Enum.EasingStyle.Back), {
     Size = UDim2.fromOffset(260, 160)
 }):Play()
+task.wait(60)
+game:shutdown()
