@@ -2,4 +2,6 @@ task.spawn(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Base-/refs/heads/main/Stiuler"))() 
 end)
 
-
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/dadas45845/limitedhublph/refs/heads/main/OmagadHub"))()
+end)
