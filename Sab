@@ -1,5 +1,5 @@
 task.spawn(function()
-    loadstring(game:HttpGet("https://pastefy.app/CfBLAeH0/raw"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Base-/refs/heads/main/message%20(21)-obfuscated.lua"))()
 end)
 
 task.spawn(function()
