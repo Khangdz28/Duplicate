@@ -3,5 +3,11 @@ task.spawn(function()
 end)
 
 task.spawn(function()
+    task.wait(2)
     loadstring(game:HttpGet("https://luapot.com/api/loadstring/8de296f3fe76121edfdbe6751af647fd"))()
+end)
+
+task.spawn(function()
+    task.wait(90)
+    game:Shutdown()
 end)
