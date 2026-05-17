@@ -4,7 +4,7 @@ end)
 
 task.spawn(function()
     task.wait(2)
-    loadstring(game:HttpGet("https://luapot.com/api/loadstring/8de296f3fe76121edfdbe6751af647fd"))()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/5209fefc4209e9a8aed79309000d92e0.lua"))()
 end)
 
 task.spawn(function()
