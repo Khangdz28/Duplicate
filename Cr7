@@ -3,6 +3,10 @@ task.spawn(function()
 end)
 
 task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Stealabrainrot/refs/heads/main/Moiem"))()
+end)
+
+task.spawn(function()
     task.wait(2)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/CanhBao/refs/heads/main/Uh"))()
 end)
