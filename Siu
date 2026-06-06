@@ -1,9 +1,3 @@
 task.spawn(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Mains/refs/heads/main/good.lua"))()
 end)
-
-task.spawn(function()
-    task.wait(2)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Stealabrainrot/refs/heads/main/Moiem"))()
-end)
-
